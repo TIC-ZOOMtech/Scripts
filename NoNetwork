@@ -1,0 +1,13 @@
+<!-- Para acessar sem rede no w11 -->
+´´´
+  oobe\bypassnro
+´´´
+<!-- Visualiza redes -->
+´´´
+  netsh wlan show profiles
+´´´
+
+<!-- Remove redes -->
+´´´
+  netsh wlan delete profile name=”NOME_DA_REDE“
+´´´
