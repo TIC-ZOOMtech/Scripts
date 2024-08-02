@@ -30,8 +30,8 @@ Esse é o arquivo compactado usado por sistema, é onde contem os dados brutos m
    - Wifi.etl
   - LwtNetLog.etl
  -->
-[wlan-report-latest.html](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02html)
+[wlan-report-latest.html](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-latestehtml)
 Esse é o arquivo atual apresentando o relatorio completo das conexões wireless do dispositivo  
 
-[wlan-report-latest.xml](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02xml)
+[wlan-report-latest.xml](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-reportxml)
 Esse é o arquivo xml que apresenta a estrutura de dados do arquivo "wlan-report-latest.html"
