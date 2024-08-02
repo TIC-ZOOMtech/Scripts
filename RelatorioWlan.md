@@ -16,7 +16,7 @@ A saida do script informa que gerou o arquivo "wlan-report-latest.html" no diret
 - #### wlan-report-latest.html
 - #### wlan-report-latest.xml
 
-[wlan-report-2024-08-02.html](https://github.com/TIC-ZOOMtech/Scripts/new/main#wlan-report-2024-08-02html)
+[wlan-report-latest-2024-08-02](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02html)
 Esse é um backup do arquivo wlan-report-latest.html com a data.
 
 [wlan-report-latest.cab](https://github.com/TIC-ZOOMtech/Scripts/new/main#wlan-report-latestcab)
