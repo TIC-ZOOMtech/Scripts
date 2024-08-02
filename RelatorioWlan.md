@@ -16,10 +16,10 @@ A saida do script informa que gerou o arquivo "wlan-report-latest.html" no diret
 - #### wlan-report-latest.html
 - #### wlan-report-latest.xml
 
-[wlan-report-latest-2024-08-02](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02html)
+[wlan-report-latest-2024-08-02.html](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02html)
 Esse é um backup do arquivo wlan-report-latest.html com a data.
 
-[wlan-report-latest.cab](https://github.com/TIC-ZOOMtech/Scripts/new/main#wlan-report-latestcab)
+[wlan-report-latest.cab](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-latestcab)
 Esse é o arquivo compactado usado por sistema, é onde contem os dados brutos mostrado no relatorio é um wlan-report-latest.html
 
 <!--
@@ -30,8 +30,8 @@ Esse é o arquivo compactado usado por sistema, é onde contem os dados brutos m
    - Wifi.etl
   - LwtNetLog.etl
  -->
-[wlan-report-latest.html](https://github.com/TIC-ZOOMtech/Scripts/new/main#wlan-report-latesthtml)
+[wlan-report-latest.html](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02html)
 Esse é o arquivo atual apresentando o relatorio completo das conexões wireless do dispositivo  
 
-[wlan-report-latest.xml](https://github.com/TIC-ZOOMtech/Scripts/new/main#wlan-report-latestxml)
+[wlan-report-latest.xml](https://github.com/TIC-ZOOMtech/Scripts/blob/main/RelatorioWlan.md#wlan-report-2024-08-02xml)
 Esse é o arquivo xml que apresenta a estrutura de dados do arquivo "wlan-report-latest.html"
